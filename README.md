@@ -111,10 +111,6 @@ EnergyGrid-Management-System
 ├── Database
 │   └── EnergyGrid.sql
 │
-├── Documentation
-│   ├── ERD.pdf
-│   └── Requirements.pdf
-│
 ├── SourceCode
 │   └── EnergyGrid.sln
 │
